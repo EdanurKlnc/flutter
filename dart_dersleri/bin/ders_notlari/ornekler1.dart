@@ -11,8 +11,8 @@ void main(List<String> args) {
 */
 
 
-/* Edanur'u 5 kere ekrana yazdırma ;
-Cözüm1;
+ //Edanur'u 5 kere ekrana yazdırma ;
+//Cözüm1;
 
 for(int i=0; i<=5 ; i++){
 
@@ -20,14 +20,14 @@ for(int i=0; i<=5 ; i++){
 
 } 
 
-Cözüm2;
+//Cözüm2;
 
 int sayac=0;
 
 while(sayac <5){
   print("Edanur");
   sayac ++; //bunu yazmazsak while sonsuz döngüye girer
-}*/
+}
 
 
 }
